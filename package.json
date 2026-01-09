@@ -1,0 +1,19 @@
+{
+  "name": "message",
+  "version": "1.0.0",
+  "description": "this just for fun ",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soufian2024/message.git"
+  },
+  "author": "sou_studio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soufian2024/message/issues"
+  },
+  "homepage": "https://github.com/soufian2024/message#readme"
+}
